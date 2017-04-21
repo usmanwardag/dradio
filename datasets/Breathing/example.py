@@ -22,3 +22,4 @@ plt.subplot(2,2,4)
 plt.plot(data[('random', 2)][20][0])
 plt.title('Random Activity')
 plt.show()
+
